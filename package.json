@@ -8,7 +8,9 @@
     "@testing-library/user-event": "^7.2.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-highcharts": "^16.1.0",
+    "react-scripts": "3.4.1",
+    "xd-react-button": "^2.2.1"
   },
   "scripts": {
     "start": "react-scripts start",
